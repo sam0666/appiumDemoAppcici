@@ -11,7 +11,7 @@
 			<class name="com.qa.runners.MyPixel3TestNGRunnerTest"/>
 		</classes>
 	</test>
-	<test name="Pixel5">
+	<!--<test name="Pixel5">
 		<parameter name="platformName" value="Android" />
 		<parameter name="udid" value="emulator-5556" />
 		<parameter name="deviceName" value="Pixel_5" />
@@ -20,5 +20,5 @@
 		<classes>
 			<class name="com.qa.runners.MyPixel5TestNGRunnerTest"/>
 		</classes>
-	</test>
+	</test>-->
 </suite> <!-- Suite -->
